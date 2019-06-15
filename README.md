@@ -1,2 +1,1 @@
-# Coursera_Python_Assignment
-From Coursera MOOC
+# python 2019/06/15
